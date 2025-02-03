@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-- :computer: I’m currently learning WebDevelopement @ neuefische
+- :computer: I’m currently learning WebDevelopement @ [neuefische](https://www.neuefische.de/)
 - :wrench: I studied mechanical engineering
 - :telescope: My first job was as consultant for a software provider
 - :mortar_board: Additionally I studied business administration and graduated with an MBA
